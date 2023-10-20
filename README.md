@@ -26,14 +26,3 @@ You can install these packages using pip:
 pip install pandas googlesearch-python requests beautifulsoup4 reportlab
 
 
-## Usage
-
-Clone or download this repository to your local machine.
-
-Modify the query and num_results variables to specify your search query and the number of results you want to scrape:
-
-```bash
-query = "panda"  # Modify this to your desired search query
-num_results = 10  # Modify this to the number of results you want
-
-
